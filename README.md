@@ -4,13 +4,17 @@ L’intelligence artificielle (IA) est devenue un sujet de premier plan dans de 
 
 # Objectif du Projet
 Dans le cadre de ce projet, nous allons exploiter ces avancées pour analyser les données des séries TV et des films disponibles sur Netflix en septembre 2021. Cette analyse nous permettra de comprendre les tendances et les préférences du public.
+## Table des Matières | Veille IA
+- [L’intelligence artificielle](#lintelligence-artificielle)
+- [Machine Learning](#machine-learning)
+- [Le pré-traitement des données](#pré-traitement-des-données)
+- [L’analyse descriptive des données](#lanalyse-descriptive-des-données)
 
-Veille IA
 
 Voulant pousser votre apprentissage de l’intelligence artificielle, vous réalisez
 une veille sur les différents aspects suivants. Définissez simplement ce qu’est :
 
-● L’intelligence artificielle
+# L’intelligence artificielle
 
 Toute technologie algorithmique qui permet de résoudre des problèmes complexes qu’on aurait cru réservé à l’intelligence humaine
 
@@ -24,7 +28,7 @@ Les techniques d'intelligence artificielle utilisent souvent des modèles mathé
 L'IA est devenue de plus en plus répandue dans de nombreux aspects de la vie quotidienne, des recommandations de produits en ligne aux voitures autonomes en passant par les systèmes de soins de santé. Son potentiel à transformer de nombreux secteurs de l'économie et de la société est immense, mais il soulève également des questions éthiques, juridiques et sociales sur des sujets tels que la vie privée, la sécurité et l'impact sur l'emploi.
 
 
-● Le Machine Learning (ou l’apprentissage automatique)
+## Le Machine Learning (ou l’apprentissage automatique)
 
  Le Machine Learning (ou apprentissage automatique) est une branche de l’intelligence artificielle (IA) qui se concentre sur la création de systèmes capables d’apprendre ou d’améliorer leurs performances en fonction des données qu’ils traitent.
 
@@ -42,7 +46,7 @@ Modèle de Machine Learning : Une fois entraîné, l’algorithme devient le mod
 Utilisations : Le Machine Learning est utilisé dans divers domaines tels que la reconnaissance d’image, la prédiction de tendances, la recommandation de produits, la détection de fraudes, la médecine, et bien plus encore.
 
 
-● Le pré-traitement des données
+### Le pré-traitement des données
 
 Le pré-traitement des données est une étape cruciale dans le domaine de la science des données. Voici ce que cela implique :
 Nettoyage des données : Cette première étape consiste à traiter les données incorrectes, incomplètes ou manquantes. Voici quelques méthodes courantes pour gérer ces problèmes :
@@ -59,7 +63,7 @@ df['Colonne'] = df['Colonne'].fillna(df['Colonne'].mode()[0])  # Remplace les NA
 Réduction du bruit : Parfois, les données peuvent contenir du bruit parasite d’acquisition. Il est essentiel de nettoyer ce bruit pour que les données puissent être correctement traitées par un ordinateur.
 En résumé, le pré-traitement des données vise à convertir les données primaires en un format exploitable pour le traitement, les rendant ainsi plus compréhensibles et adaptées à une analyse approfondie. 
 
-● L’analyse descriptive des données
+#### L’analyse descriptive des données
 
 L’analyse descriptive des données est un ensemble d’outils statistiques qui servent à décrire et résumer les caractéristiques principales d’un ensemble de données pour faciliter leur compréhension et leur interprétation 
 Statistiques descriptives:
@@ -77,7 +81,6 @@ identification de la forme de la distribution des données, qu'elle soit symétr
 Choisissez un domaine (la santé, la finance, l’environnement, le juridique,
 l’immobilier, etc) et expliquez ce qu’il est possible de faire dans ce domaine
 grâce à l’intelligence artificielle.
-
 
 
 Veille sur l’outil Jupyter Notebook
