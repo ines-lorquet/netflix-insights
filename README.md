@@ -1,7 +1,8 @@
-Analyse des tendances des séries TV et des films Netflix grâce à l'IA
+# Analyse des tendances des séries TV et des films Netflix grâce à l'IA
+
 L’intelligence artificielle (IA) est devenue un sujet de premier plan dans de nombreux domaines, y compris la santé, la finance, l’environnement, le juridique, l’immobilier et le marketing. Les progrès récents en matière d’IA, notamment dans le domaine de l’apprentissage automatique, ont ouvert de nouvelles possibilités pour l’analyse des données et la prise de décisions.
 
-Objectif du Projet
+# Objectif du Projet
 Dans le cadre de ce projet, nous allons exploiter ces avancées pour analyser les données des séries TV et des films disponibles sur Netflix en septembre 2021. Cette analyse nous permettra de comprendre les tendances et les préférences du public.
 
 Veille IA
